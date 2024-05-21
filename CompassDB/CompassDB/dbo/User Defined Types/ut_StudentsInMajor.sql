@@ -1,0 +1,33 @@
+﻿CREATE TYPE [dbo].[ut_StudentsInMajor] AS TABLE (
+    [Major]                VARCHAR (1) NULL,
+    [Freshman]             FLOAT (53)  NULL,
+    [Transfer]             FLOAT (53)  NULL,
+    [White]                FLOAT (53)  NULL,
+    [AfricanAmerican]      FLOAT (53)  NULL,
+    [AmericanIndian]       FLOAT (53)  NULL,
+    [Asian]                FLOAT (53)  NULL,
+    [OtherRaces]           FLOAT (53)  NULL,
+    [Male]                 FLOAT (53)  NULL,
+    [Female]               FLOAT (53)  NULL,
+    [OtherGenders]         FLOAT (53)  NULL,
+    [Total]                INT         NULL,
+    [AverageGPA]           FLOAT (53)  NULL,
+    [GraduatedIn5years]    INT         NULL,
+    [AverageSalary]        INT         NULL,
+    [RetensionYear1]       FLOAT (53)  NULL,
+    [RetensionYear2]       FLOAT (53)  NULL,
+    [RetensionYear3]       FLOAT (53)  NULL,
+    [RetensionYear4]       FLOAT (53)  NULL,
+    [FreshmanRetension]    FLOAT (53)  NULL,
+    [TransferRetension]    FLOAT (53)  NULL,
+    [AverageGPAFreshman]   FLOAT (53)  NULL,
+    [AverageGPATransfer]   FLOAT (53)  NULL,
+    [UGResearch]           FLOAT (53)  NULL,
+    [GPIPEligible]         FLOAT (53)  NULL,
+    [GPIPInterns]          FLOAT (53)  NULL,
+    [GraduatedWithJobs]    FLOAT (53)  NULL,
+    [JoinedGraduateSchool] FLOAT (53)  NULL,
+    [StudentsTo1Faculty]   FLOAT (53)  NULL);
+
+
+

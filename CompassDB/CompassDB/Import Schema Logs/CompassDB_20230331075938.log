@@ -1,0 +1,88 @@
+3/31/2023 2:59:38 PM	This log contains information about the import schema operation into project 'CompassDB' on computer 'TS-STUDENT-7498' by user 'jjasan2'.
+3/31/2023 2:59:39 PM	Import of database schema has started.
+3/31/2023 3:00:04 PM	Gathering database credentials
+3/31/2023 3:00:04 PM	Gathering database options
+3/31/2023 3:00:04 PM	Gathering generic database scoped configuration option
+3/31/2023 3:00:04 PM	Gathering users
+3/31/2023 3:00:04 PM	Gathering roles
+3/31/2023 3:00:04 PM	Gathering application roles
+3/31/2023 3:00:04 PM	Gathering role memberships
+3/31/2023 3:00:04 PM	Gathering filegroups
+3/31/2023 3:00:04 PM	Gathering full-text catalogs
+3/31/2023 3:00:04 PM	Gathering assemblies
+3/31/2023 3:00:04 PM	Gathering certificates
+3/31/2023 3:00:04 PM	Gathering asymmetric keys
+3/31/2023 3:00:04 PM	Gathering symmetric keys
+3/31/2023 3:00:04 PM	Gathering encrypted symmetric keys
+3/31/2023 3:00:04 PM	Gathering schemas
+3/31/2023 3:00:04 PM	Gathering XML schema collections
+3/31/2023 3:00:04 PM	Gathering user-defined data types
+3/31/2023 3:00:04 PM	Gathering user-defined types
+3/31/2023 3:00:04 PM	Gathering table types
+3/31/2023 3:00:04 PM	Gathering unique keys for table types
+3/31/2023 3:00:04 PM	Gathering primary keys for table types
+3/31/2023 3:00:04 PM	Gathering indexes for table types
+3/31/2023 3:00:07 PM	Gathering check constraints for table types
+3/31/2023 3:00:07 PM	Gathering default constraints for table types
+3/31/2023 3:00:07 PM	Gathering partition functions
+3/31/2023 3:00:07 PM	Gathering partition schemes
+3/31/2023 3:00:07 PM	Gathering functions
+3/31/2023 3:00:07 PM	Gathering encrypted functions
+3/31/2023 3:00:08 PM	Gathering aggregates
+3/31/2023 3:00:08 PM	Gathering procedures
+3/31/2023 3:00:08 PM	Gathering encrypted procedures
+3/31/2023 3:00:08 PM	Gathering tables
+3/31/2023 3:00:59 PM	Gathering primary keys
+3/31/2023 3:00:59 PM	Gathering unique constraints
+3/31/2023 3:00:59 PM	Gathering foreign keys
+3/31/2023 3:00:59 PM	Gathering default constraints
+3/31/2023 3:00:59 PM	Gathering check constraints
+3/31/2023 3:00:59 PM	Gathering views
+3/31/2023 3:00:59 PM	Gathering encrypted views
+3/31/2023 3:00:59 PM	Gathering indexes
+3/31/2023 3:00:59 PM	Gathering statistics
+3/31/2023 3:00:59 PM	Gathering full-text index stoplists
+3/31/2023 3:00:59 PM	Gathering search property lists
+3/31/2023 3:00:59 PM	Gathering search properties
+3/31/2023 3:00:59 PM	Gathering full-text indexes
+3/31/2023 3:00:59 PM	Gathering column store indexes
+3/31/2023 3:00:59 PM	Gathering spatial indexes
+3/31/2023 3:00:59 PM	Gathering XML indexes
+3/31/2023 3:00:59 PM	Gathering Selective XML indexes
+3/31/2023 3:00:59 PM	Gathering encrypted triggers
+3/31/2023 3:00:59 PM	Gathering triggers
+3/31/2023 3:00:59 PM	Gathering encrypted and clr ddl triggers
+3/31/2023 3:01:30 PM	Gathering ddl triggers
+3/31/2023 3:01:30 PM	Creating edge constraints
+3/31/2023 3:01:30 PM	Gathering synonyms
+3/31/2023 3:01:30 PM	Gathering defaults
+3/31/2023 3:01:30 PM	Gathering data constraint uddt bindings
+3/31/2023 3:01:30 PM	Gathering rules
+3/31/2023 3:01:30 PM	Gathering data constraint uddt bindings
+3/31/2023 3:01:30 PM	Gathering message types
+3/31/2023 3:01:30 PM	Gathering queues
+3/31/2023 3:01:30 PM	Gathering contracts
+3/31/2023 3:01:30 PM	Gathering services
+3/31/2023 3:01:30 PM	Gathering event notifications
+3/31/2023 3:01:30 PM	Gathering remote service bindings
+3/31/2023 3:01:30 PM	Gathering broker priorities
+3/31/2023 3:01:30 PM	Gathering signatures
+3/31/2023 3:01:30 PM	Gathering compression options
+3/31/2023 3:01:30 PM	Gathering sequence types
+3/31/2023 3:01:30 PM	Gathering security policies
+3/31/2023 3:01:30 PM	Gather column encryption keys
+3/31/2023 3:01:30 PM	Gathering column master keys
+3/31/2023 3:01:30 PM	Gathering external data sources
+3/31/2023 3:01:30 PM	Gathering external file formats
+3/31/2023 3:01:30 PM	Gathering external tables
+3/31/2023 3:01:30 PM	Gathering database permissions
+3/31/2023 3:01:30 PM	Gathering extended properties
+3/31/2023 3:01:30 PM	Gathering assemblies
+3/31/2023 3:01:32 PM	Gathering credentials
+3/31/2023 3:01:32 PM	Gathering logins
+3/31/2023 3:01:32 PM	Gathering server audits
+3/31/2023 3:01:35 PM	Scanning project for duplicate elements
+3/31/2023 3:01:35 PM	Finished duplicate element processing
+3/31/2023 3:01:36 PM	Finished importing database.
+3/31/2023 3:01:36 PM	A summary of the import was saved to the following location: C:\Users\jjasan2\OneDrive - University of Illinois Chicago\JJ\Compass\APISourceCode\CompassDB\CompassDB\Import Schema Logs\CompassDB_20230331075938.log
+3/31/2023 3:01:36 PM	Click Finish to continue...

@@ -1,0 +1,10 @@
+C:\Users\jjasan2\OneDrive - University of Illinois Chicago\JJ\Compass\APISourceCode\CompassDB\CompassDB\bin\Debug\CompassDB.dacpac
+C:\Users\jjasan2\OneDrive - University of Illinois Chicago\JJ\Compass\APISourceCode\CompassDB\CompassDB\bin\Debug\CompassDB.dll
+C:\Users\jjasan2\OneDrive - University of Illinois Chicago\JJ\Compass\APISourceCode\CompassDB\CompassDB\bin\Debug\CompassDB.pdb
+C:\Users\jjasan2\OneDrive - University of Illinois Chicago\JJ\Compass\APISourceCode\CompassDB\CompassDB\obj\Debug\CompassDB.sqlproj.AssemblyReference.cache
+C:\Users\jjasan2\OneDrive - University of Illinois Chicago\JJ\Compass\APISourceCode\CompassDB\CompassDB\obj\Debug\Model.xml
+C:\Users\jjasan2\OneDrive - University of Illinois Chicago\JJ\Compass\APISourceCode\CompassDB\CompassDB\obj\Debug\refactor.xml
+C:\Users\jjasan2\OneDrive - University of Illinois Chicago\JJ\Compass\APISourceCode\CompassDB\CompassDB\obj\Debug\postdeploy.sql
+C:\Users\jjasan2\OneDrive - University of Illinois Chicago\JJ\Compass\APISourceCode\CompassDB\CompassDB\obj\Debug\predeploy.sql
+C:\Users\jjasan2\OneDrive - University of Illinois Chicago\JJ\Compass\APISourceCode\CompassDB\CompassDB\obj\Debug\CompassDB.dll
+C:\Users\jjasan2\OneDrive - University of Illinois Chicago\JJ\Compass\APISourceCode\CompassDB\CompassDB\obj\Debug\CompassDB.pdb
